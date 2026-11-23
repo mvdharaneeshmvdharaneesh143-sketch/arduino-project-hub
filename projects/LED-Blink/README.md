@@ -54,7 +54,7 @@ This project uses the built-in LED on Arduino UNO.
 
 - HIGH signal: LED ON
 - LOW signal: LED OFF
-- Delay: 1000 milliseconds
+- Delay: 1000 milliseconds 
 
 ### Components
 - Arduino UNO
